@@ -1,9 +1,10 @@
 export default {
+  projectRoot:'.',
+  dist: './dist',
   buildOptions: {
-    site: 'https://abhijitez.github.io/astro-demo/',
     baseUrl: 'https://abhijitez.github.io/astro-demo/',
   },
   renderers: [
-    '@astrojs/renderer-preact'
+    '@astrojs/renderer-react'
   ]
 };
