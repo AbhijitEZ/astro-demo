@@ -1,6 +1,1 @@
-## 🎨 Portfolio Example
-
-```
-npm i
-npm start
-```
+## 🎨 Astra playground
